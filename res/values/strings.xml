@@ -1,0 +1,27 @@
+T<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyCurriculum</string>
+    <string name="wellcome">Bienvenido a la aplicación MyCurriculum. Con esta aplicación podrá realizar un currículum paso a paso de manera sencilla. Tan sólo deberá seguir las instrucciones e ir cumplientando las casillas cuando se le indique.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="press_next">Presione siguiente para continuar</string>
+    <string name="next">Siguiente</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_step1">Paso 1</string>
+    <string name="prev">Atrás</string>
+    <string name="title_activity_personal_data">PersonalData</string>
+    <string name="personal_data">Datos Personales</string>
+    <string name="name_second_name">Nombre y apellidos</string>
+    <string name="nif">DNI</string>
+    <string name="sex">Sexo</string>
+    <string name="status">Estado civil</string>
+    <string name="city">Localidad</string>
+    <string name="province">Provincia</string>
+    <string name="mobile">Móvil</string>
+    <string name="nss">Nº Seguridad Social</string>
+    <string name="man">Hombre</string>
+    <string name="woman">Mujer</string>
+    
+    
+
+</resources>
